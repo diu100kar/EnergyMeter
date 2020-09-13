@@ -31,5 +31,5 @@ All general components like protoboard, wires, solder et cetra, are assumed to b
 
 
 ## Working
-Connect the hardware as specified. Upload the only code in this repository, and voila! Start measuring power consumed by whatever device you want.
+Connect the hardware as specified. Upload the only code in this repository onto your arduino, and voila! Start measuring power consumed by whatever device you want.
 ***

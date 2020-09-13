@@ -29,3 +29,7 @@ All general components like protoboard, wires, solder et cetra, are assumed to b
   b) **OLED Libraries**: The standard libraries by Adafruit, to drive the OLED screen.
 ***
 
+
+## Working
+Connect the hardware as specified. Upload the only code in this repository, and voila! Start measuring power consumed by whatever device you want.
+***
